@@ -18,7 +18,8 @@ public class UIManager : MonoBehaviour
 
     public void OnStartButtonClick()
     {
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("AHS_Scene");
+        SceneManager.LoadScene("Player", LoadSceneMode.Additive);
     }
 
 }

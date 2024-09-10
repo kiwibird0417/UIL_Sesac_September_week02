@@ -12,14 +12,14 @@ EditorBuildSettings:
     path: Assets/01_Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
-    path: Assets/01_Scenes/AHS_Scene.unity
-    guid: 5ddfab2bd1315524ca496c3ce5cb8942
-  - enabled: 1
-    path: Assets/01_Scenes/UnUsed.._/Puzzle.unity
-    guid: 72863d6b415aa3447a83813602439123
-  - enabled: 1
     path: Assets/01_Scenes/Player.unity
     guid: 41153dfe21c2ee447af539afb05788be
+  - enabled: 1
+    path: Assets/01_Scenes/JYScene.unity
+    guid: 7f2e663f0e66bb6499845c69c7c8c9fe
+  - enabled: 1
+    path: Assets/01_Scenes/AHS_Scene.unity
+    guid: 5ddfab2bd1315524ca496c3ce5cb8942
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0

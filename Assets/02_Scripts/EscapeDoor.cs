@@ -15,8 +15,8 @@ public class EscapeDoor : MonoBehaviour
             {
                 // 탈출 가능한 로직을 작성
                 Debug.Log("탈출 성공! 문이 열립니다.");
-                SceneManager.LoadScene("SampleScene");
-                SceneManager.LoadScene("Player", LoadSceneMode.Additive);
+                SceneManager.LoadScene("01_Title"); //SampleScene");
+                //SceneManager.LoadScene("Player", LoadSceneMode.Additive);
 
                 //Load시 퍼즐 씬이 제대로 실행되지 않는 버그...왜 그런지 알 수 없음.
                 //SceneManager.LoadScene("Puzzle");
